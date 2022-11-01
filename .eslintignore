@@ -4,7 +4,7 @@ pnpm-lock.yaml
 CHANGELOG.en-US.md
 docs/components.d.ts
 coverage
-play
+# play
 ssr-testing/cases/*
 docs/.vitepress/i18n/*
 docs/.vitepress/crowdin/*
