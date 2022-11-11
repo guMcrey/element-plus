@@ -180,6 +180,8 @@ form/accessibility
 | `show-message`   | Whether to show the error message.                                                                                                                            | `boolean`                         | `true`      |
 | `inline-message` | Inline style validate message.                                                                                                                                | `boolean`                         | `false`     |
 | `size`           | Control the size of components in this form-item.                                                                                                             | `'large' \| 'default' \| 'small'` | `'default'` |
+| `validate-trim`  | Whether to trim validation, set its value and the field will validate error when only spaces are entered. | `boolean` | `false` |
+| `validate-msg-use-label` | Use Label for the field name in the validation error message, or use the text passed in. | `boolean \| string` | —           |
 
 #### FormItemRule
 
